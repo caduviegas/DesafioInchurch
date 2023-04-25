@@ -24,7 +24,7 @@ Nessa parte do processo de recrutamento vocÃª desenvolverÃ¡ uma aplicaÃ§Ã
 
 #
 + ### Desenvolvimento do Projeto
-<img src="img/TelaFilmes.png" width="200">
+<img src="img/telaFilmes.png" width="200">
 
   A primeira tela deste aplicativo é a tela de filmes. Esta tela informa os filmes mais populares da API The Movies BD, com scroll infinito podendo ver todos os filmes que possuem cadastrados. Também possui possibilidade de favoritar os filmes preferidos.
 
